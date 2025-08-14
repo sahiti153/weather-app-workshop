@@ -8,7 +8,7 @@
 
 // ====== STEP 1: Setup API Variables ======
 // TODO: Replace with your own API key from OpenWeatherMap
-const apiKey = "21b46e02db74d3726dab2b2bff00cdd5";
+const apiKey = "Open Weather Map API Key";
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=imperial&q=";
 
 
